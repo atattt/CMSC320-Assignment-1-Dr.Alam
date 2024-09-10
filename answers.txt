@@ -9,3 +9,9 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 Answer: Data science can be and is applied to the field of AI. It creates the
 alogirithms that forms the basis for machine learning, which is a big sub-field
 of AI.
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines two branches and their changes together while rebasing 
+simply moves the changes from one branch to another.
